@@ -1,1 +1,1 @@
-# hls4ml-qkeras-btag
+# hls4ml-qkeras
